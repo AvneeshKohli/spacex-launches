@@ -60,6 +60,7 @@ export default {
     data.forEach(launch => {
       this.launches.push(launch);
     });
+    this.$router.push('/');
     this.isLodaing = false;
   },
 
