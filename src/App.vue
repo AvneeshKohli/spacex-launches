@@ -225,18 +225,11 @@ h2 {
   justify-content: space-evenly;
   margin: 0.8em;
 }
-.cred {
-  position: absolute;
-  bottom: 0;
-}
 @media (min-width: 700px) {
   .launch-card-wrapper {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
     margin: 0 0 0 28%;
     position: absolute;
-    top: 3.6rem;
+    top: 3.7rem;
     min-width: -webkit-fill-available;
   }
   .btn {
