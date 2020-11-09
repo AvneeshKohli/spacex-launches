@@ -24,7 +24,9 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ##This application is built with Vue, Vue Router and Axios following things have been implemented:
+```
 -UI is responsive
+```
 -Styles have been written with mobile first approch in mind
 -Filtes are working fine and URL is also silently updated
 -This app scores perfect in lighthouse audits
